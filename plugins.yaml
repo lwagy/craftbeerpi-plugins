@@ -1,3 +1,9 @@
+Wagys:
+  description: A sample Wagy for for CraftBeerPi
+  api: 3.0
+  author: Wagy
+  repo_url: https://github.com/craftbeerpi/sample_actor
+
 SampleActor:
   description: A sample Actor for CraftBeerPi
   api: 3.0
