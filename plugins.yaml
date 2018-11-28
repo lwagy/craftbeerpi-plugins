@@ -1,8 +1,8 @@
-Wagys:
+SayIt Plugin:
   description: A sample Wagy for for CraftBeerPi
   api: 3.0
-  author: Wagy
-  repo_url: https://github.com/lwagy/cbpi_Groups
+  author: Lawrence Wagy
+  repo_url: https://github.com/lwagy/SayIt
 
 SampleActor:
   description: A sample Actor for CraftBeerPi
