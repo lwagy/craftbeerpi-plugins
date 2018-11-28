@@ -1,8 +1,8 @@
 SayIt Plugin:
-  description: A sample Wagy for for CraftBeerPi
+  description: A simple text reader for for CraftBeerPi3 Notifications
   api: 3.0
   author: Lawrence Wagy
-  repo_url: https://github.com/lwagy/SayIt-Plugin
+  repo_url: https://github.com/lwagy/SayIt
 
 SampleActor:
   description: A sample Actor for CraftBeerPi
