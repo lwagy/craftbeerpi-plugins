@@ -1,5 +1,5 @@
 SayIt Plugin:
-  description: A simple text reader for for CraftBeerPi3 Notifications
+  description: A simple notification reader for for CraftBeerPi3
   api: 3.0
   author: Lawrence Wagy
   repo_url: https://github.com/lwagy/SayIt
